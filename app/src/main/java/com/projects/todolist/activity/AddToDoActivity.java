@@ -1,8 +1,10 @@
-package com.projects.todolist;
+package com.projects.todolist.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.projects.todolist.R;
 
 public class AddToDoActivity extends AppCompatActivity {
 
